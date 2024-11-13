@@ -1,0 +1,2 @@
+Akinator.o: Akinator.cpp Akinator.h ../BinTree/BinTree.h \
+ ../../MyStack/StackFunc.h ../../MyStack/hash.h

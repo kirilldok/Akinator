@@ -1,0 +1,9 @@
+Objects
+*.exe
+*.o
+*.out
+main
+log.txt
+*/run/graphviz.gv
+*/run/Listlog.html
+main.cpp
